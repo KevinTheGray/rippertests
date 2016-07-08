@@ -1,0 +1,6 @@
+github "SnapKit/SnapKit"
+github "goposse/haitch"
+git "git@gitlab.com:posse-internal/ioskit.core.git" "development"
+git "git@gitlab.com:posse-internal/ioskit.ui.git" "development"
+git "git@gitlab.com:posse-internal/ioskit.networking.git" "development"
+github "goposse/ripper"

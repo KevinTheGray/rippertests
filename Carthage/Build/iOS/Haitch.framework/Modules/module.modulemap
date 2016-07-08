@@ -1,0 +1,10 @@
+framework module Haitch {
+  umbrella header "Haitch.h"
+
+  export *
+  module * { export * }
+}
+
+module Haitch.Swift {
+    header "Haitch-Swift.h"
+}

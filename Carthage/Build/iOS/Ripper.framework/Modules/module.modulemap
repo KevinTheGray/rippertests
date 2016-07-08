@@ -1,0 +1,3 @@
+framework module Ripper {
+    header "Ripper-Swift.h"
+}

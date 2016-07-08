@@ -1,0 +1,6 @@
+github "SnapKit/SnapKit" "0.21.1"
+github "goposse/haitch" "0.7"
+git "git@gitlab.com:posse-internal/ioskit.core.git" "69e94f5a43db82ec139b522e5bc1c74bc180e727"
+git "git@gitlab.com:posse-internal/ioskit.ui.git" "a2073fb8730d4713d5fae744b11286a032f8dea3"
+github "goposse/ripper" "0.7.1"
+git "git@gitlab.com:posse-internal/ioskit.networking.git" "f9c70f77eb1e8e1c59d1d2ad8902f5ca7c5cdefc"

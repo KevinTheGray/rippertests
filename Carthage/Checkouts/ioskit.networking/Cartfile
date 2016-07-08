@@ -1,0 +1,2 @@
+git "git@gitlab.com:posse-internal/ioskit.core.git" "development"
+git "git@gitlab.com:posse-internal/ioskit.ui.git" "development"
